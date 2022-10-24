@@ -3,5 +3,5 @@ seaborn
 streamlit
 altair
 pydeck
-matplotlib.pyplot 
+matplotlib
 numpy

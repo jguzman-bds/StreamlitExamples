@@ -6,3 +6,4 @@ pydeck
 matplotlib
 numpy
 pythonnet
+Microsoft.AnalysisServices.Tabular.dll

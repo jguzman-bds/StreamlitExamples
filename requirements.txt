@@ -6,4 +6,3 @@ pydeck
 matplotlib
 numpy
 pythonnet
-libmono
